@@ -1,11 +1,11 @@
 
-drop database if exists [MiniJIRA]
+drop database if exists [TasksDB]
 go
 
-create database [MiniJIRA]
+create database [TasksDB]
 go
 
-use [MiniJIRA]
+use [TasksDB]
 go
 
 
